@@ -23,7 +23,7 @@ I am an IT professional focused on leveraging my programming and management skil
 
 ## 🛠 Skills
 - **Programming Languages:** Python, C/C++, Java, PHP, HTML, MySQL, XML
-- **Technologies:** Jupyter Notebook, Playwright, Docker, Microsoft Office Suite, Flask, Django
+- **Technologies:** Jupyter Notebook, Playwright, Docker, Microsoft Office Suite, Odoo
 - **Core Skills:** Web scraping, Automation, Data analysis
 
 ## 🎓 Education
