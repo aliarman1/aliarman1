@@ -23,17 +23,14 @@ I am an IT professional focused on leveraging my programming and management skil
 
 ## 🛠 Skills
 - **Programming Languages:** Python, C/C++, Java, PHP, HTML, MySQL, XML
-- **Technologies:** Jupyter Notebook, Playwright, Docker, Microsoft Office Suite, Odoo
-- **Core Skills:** Web scraping, Automation, Data analysis
+- **Technologies:** Odoo, Laravel
+- **Core Skills:** Programming, Automation, Data analysis
 
 ## 🎓 Education
 - **B.Sc. in Computer Science and Engineering**
   - Bangladesh Army University of Science and Technology
 
 ## 🚀 Projects
-- **Google Lens Scraper:** Python tool for data scraping and analysis.
-- **Marketplace Scraper:** Python script using Playwright for scraping Facebook Marketplace.
-- **Automatic Salary Generator:** Automates salary calculations and report generation.
 - **Face Detection Attendance System:** Facial recognition for attendance tracking.
 
 ## 🌐 Connect with Me
