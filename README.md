@@ -39,8 +39,5 @@ I am an IT professional focused on leveraging my programming and management skil
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/aliarman1)](https://github.com/aliarman1)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=flat-square&logo=About.me&logoColor=white&link=https://aliarman1.github.io)](https://aliarman1.github.io)
 
-## 📈 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarman1&show_icons=true&theme=radical)
-
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliarman1&layout=compact&theme=radical)
