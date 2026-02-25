@@ -8,7 +8,7 @@
 
 ## About
 
-Software Engineer with 2+ years of experience building enterprise solutions including ERP, POS, and HRM systems. Passionate about clean architecture, automation, and leveraging AI tools for efficient development.
+Software Engineer with 2+ years of experience building enterprise solutions including ERP, POS, and HRM systems. Passionate about clean architecture, automation, and leveraging AI tools for efficient [...]  
 
 **Currently:** Software Engineering Backend at ACI PLC
 
@@ -17,9 +17,9 @@ Software Engineer with 2+ years of experience building enterprise solutions incl
 ## Technical Skills
 
 **Backend:** PHP, Laravel, Python, Odoo  
-**Frontend:** React, JavaScript  
+**Frontend:** React, JavaScript, Next.js  
 **Mobile:** Flutter, Kotlin  
-**Databases:** MySQL, SQLite  
+**Databases:** MySQL, SQLite, PostgreSQL  
 **Hardware Integration:** ZKTeco Biometric Systems, RFID  
 **DevTools:** Git, GitHub, Linux, VS Code  
 **AI & ML:** Cursor, Windsurf, Claude Code, Machine Learning (TensorFlow, NLP)
@@ -28,21 +28,21 @@ Software Engineer with 2+ years of experience building enterprise solutions incl
 
 ## Key Achievements
 
-- 🥇 Champion — ROBAUST Robotics Contest (Senior Level)
-- 🥈 Runner-up — Intra University Programming Contest (ICPC Selection)
-- Vice President — BAUST Programming Club
-- Delivered production ERP systems with inventory, financial, and asset management modules
+- 🥇 Champion — ROBAUST Robotics Contest (Senior Level)  
+- 🥈 Runner-up — Intra University Programming Contest (ICPC Selection)  
+- Vice President — BAUST Programming Club  
+- Delivered production ERP systems with inventory, financial, and asset management modules  
 - Developed secure mobile applications with biometric integration
 
 ---
 
 ## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| **ERP System** | Full-featured enterprise resource planning with inventory, accounting, and HRM modules |
-| **POS & HRM Mobile Apps** | Flutter-based applications with API authentication and biometric integration |
-| **RFID Asset Tracking** | Device-level asset tracking with automated depreciation and movement logging |
+| Project | Description |  
+|---------|-------------|  
+| **ERP System** | Full-featured enterprise resource planning with inventory, accounting, and HRM modules |  
+| **POS & HRM Mobile Apps** | Flutter-based applications with API authentication and biometric integration |  
+| **RFID Asset Tracking** | Device-level asset tracking with automated depreciation and movement logging |  
 | **AI Projects** | AI-generated content detection (NLP) and handwritten digit recognition (TensorFlow) |
 
 ---
