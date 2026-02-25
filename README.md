@@ -16,13 +16,13 @@ Software Engineer with 2+ years of experience building enterprise solutions incl
 
 ## Technical Skills
 
-**Backend:** PHP, Laravel  
+**Backend:** PHP, Laravel, Python, Odoo  
 **Frontend:** React, JavaScript  
 **Mobile:** Flutter, Kotlin  
 **Databases:** MySQL, SQLite  
 **Hardware Integration:** ZKTeco Biometric Systems, RFID  
 **DevTools:** Git, GitHub, Linux, VS Code  
-**AI Tools:** Cursor, Windsurf, Claude Code
+**AI & ML:** Cursor, Windsurf, Claude Code, Machine Learning (TensorFlow, NLP)
 
 ---
 
@@ -49,7 +49,7 @@ Software Engineer with 2+ years of experience building enterprise solutions incl
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aliarman.dev-8A2BE2?style=flat-square)](https://aliarman.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdaliarman12-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mdaliarman12)
-[![GitHub](https://img.shields.io/badge/GitHub-aliarman1-181717?style=flat-square&logo=github)](https://github.com/aliarman1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aliarman.dev-8A2BE2?style=flat-square)](https://aliarman.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdaliarman12-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mdaliarman12)  
+[![GitHub](https://img.shields.io/badge/GitHub-aliarman1-181717?style=flat-square&logo=github)](https://github.com/aliarman1)  
 [![Email](https://img.shields.io/badge/Email-aliarman45039@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:aliarman45039@gmail.com)
