@@ -1,55 +1,44 @@
-# Md Ali Arman
+# Hi, I'm MD Ali Arman 👋
 
-**Software Engineer** | Full-Stack Developer | ERP & POS Systems
+A Software Engineer with 2+ years of experience building ERP, POS, HRM, and asset management systems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=aliarman1&label=Profile%20Views&color=blueviolet&style=flat)
+## 🛠 Tech Stack
 
----
+**Backend:** Laravel, Python
+**Frontend:** React.js, JavaScript
+**Mobile:** Flutter, Kotlin
+**Database:** MySQL
+**Tools:** Git, Linux, RESTful APIs
 
-## About
+## 💼 Experience
 
-Software Engineer with 2+ years of experience building enterprise solutions including ERP, POS, and HRM systems. Passionate about clean architecture, automation, and leveraging AI tools for efficient [...]  
+| Company | Role | Period |
+|---------|------|--------|
+| ACI PLC | Software Engineer | Jan 2026 – Present |
+| Mellowhost | Software Engineer | Oct 2024 – Dec 2025 |
+| Shajgoj Limited | Software Engineer - Engineer I | Jun 2024 – Oct 2024 |
+| Sure International | IT Executive | Apr 2024 – May 2024 |
 
-**Currently:** Software Engineering Backend at ACI PLC
+## 📚 Education
 
----
+**B.Sc. in Computer Science and Engineering** — Bangladesh Army University of Science and Technology (2019-2023) | CGPA: 3.55/4.00
 
-## Technical Skills
+## 📂 Featured Projects
 
-**Backend:** PHP, Laravel, Python, Odoo  
-**Frontend:** React, JavaScript, Next.js  
-**Mobile:** Flutter, Kotlin  
-**Databases:** MySQL, SQLite, PostgreSQL  
-**Hardware Integration:** ZKTeco Biometric Systems, RFID  
-**DevTools:** Git, GitHub, Linux, VS Code  
-**AI & ML:** Cursor, Windsurf, Claude Code, Machine Learning (TensorFlow, NLP)
+- **ERP System** — Enterprise resource planning with inventory, accounting, and HRM modules
+- **POS & HRM Mobile Apps** — Flutter-based applications with API authentication
+- **RFID Asset Tracking** — Device-level asset tracking with automated depreciation
+- **AI Projects** — AI content detection (NLP) and handwritten digit recognition (TensorFlow)
 
----
+## 🏆 Achievements
 
-## Key Achievements
+- Champion, ROBAUST Intra University Robotics Contest (2023)
+- Runner-up, Intra University Programming Contest - ICPC Selection (2021)
 
-- 🥇 Champion — ROBAUST Robotics Contest (Senior Level)  
-- 🥈 Runner-up — Intra University Programming Contest (ICPC Selection)  
-- Vice President — BAUST Programming Club  
-- Delivered production ERP systems with inventory, financial, and asset management modules  
-- Developed secure mobile applications with biometric integration
+## 📫 Connect
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mdaliarman12)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github)](https://github.com/aliarman1)
+[![Website](https://img.shields.io/badge/Website-8A2BE2?style=flat)](https://aliarman.dev)
 
-## Featured Projects
-
-| Project | Description |  
-|---------|-------------|  
-| **ERP System** | Full-featured enterprise resource planning with inventory, accounting, and HRM modules |  
-| **POS & HRM Mobile Apps** | Flutter-based applications with API authentication and biometric integration |  
-| **RFID Asset Tracking** | Device-level asset tracking with automated depreciation and movement logging |  
-| **AI Projects** | AI-generated content detection (NLP) and handwritten digit recognition (TensorFlow) |
-
----
-
-## Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-aliarman.dev-8A2BE2?style=flat-square)](https://aliarman.dev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdaliarman12-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mdaliarman12)  
-[![GitHub](https://img.shields.io/badge/GitHub-aliarman1-181717?style=flat-square&logo=github)](https://github.com/aliarman1)  
-[![Email](https://img.shields.io/badge/Email-aliarman45039@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:aliarman45039@gmail.com)
+aliarman45039@gmail.com
