@@ -27,7 +27,7 @@ A Software Engineer with 2+ years of experience building ERP, POS, HRM, and asse
 
 ## 📚 Education
 
-**B.Sc. in Computer Science and Engineering** — Bangladesh Army University of Science and Technology (2019-2023) | CGPA: 3.55/4.00
+**B.Sc. in Computer Science and Engineering** — Bangladesh Army University of Science and Technology (2019-2023)
 
 ## 📂 Featured Projects
 
