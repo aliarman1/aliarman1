@@ -2,6 +2,12 @@
 
 A Software Engineer with 2+ years of experience building ERP, POS, HRM, and asset management systems.
 
+<!-- GitHub Stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliarman1&show_icons=true&theme=transparent" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliarman1&layout=compact&theme=transparent" height="150" alt="Top Languages" />
+</p>
+
 ## 🛠 Tech Stack
 
 **Backend:** Laravel, Python
