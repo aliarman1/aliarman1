@@ -1,4 +1,4 @@
-# Hi, I'm MD Ali Arman 👋
+# Hi, I'm Ali Arman 👋
 
 A Software Engineer with 2+ years of experience building ERP, POS, HRM, and asset management systems.
 
